@@ -1,0 +1,7 @@
+#.gitignore
+.env
+*.db
+*.csv
+*.pyc
+__pycache__/
+node_modules/

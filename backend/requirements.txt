@@ -1,0 +1,7 @@
+fastapi[standard]
+uvicorn[standard]
+python-multipart
+passlib[bcrypt]
+python-jose
+requests
+beautifulsoup4
