@@ -7,7 +7,7 @@
 ## 🔥 Features
 
 ### 🧠 AI-Powered Stock Predictions
-- Analyze NSE/BSE listed stocks using Google-scraped data.
+- Analyze NSE listed stocks using Google-scraped data.
 - Generate intelligent recommendations ("Buy", "Hold", "Sell") using large language models (LLMs).
 
 ### 🔎 Real-time Stock Data Scraping
