@@ -146,12 +146,6 @@ Optional: user can email the AI brief.
 
 ---
 
-## 📜 License
-
-MIT License — feel free to use and expand this project.
-
----
-
 ## ⭐ If you find this useful...
 
 Give it a ⭐ on GitHub — it helps others discover the project!
