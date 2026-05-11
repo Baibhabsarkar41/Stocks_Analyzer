@@ -141,7 +141,7 @@ Optional: user can email the AI brief.
 
 **Baibhab Sarkar**
 
-> Third-year CS Undergrad | Backend & AI Developer
+> Fourth-year CS Undergrad | Backend & AI Developer
 > [LinkedIn](https://www.linkedin.com/in/baibhab-sarkar-b69913293/) | [GitHub](https://github.com/Baibhabsarkar41)
 
 ---
